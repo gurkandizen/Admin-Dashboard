@@ -5,12 +5,12 @@ const themeToggler = document.querySelector(".theme-toggler");
 
 // show sidebar
 menuBtn.addEventListener("click", () => {
-    sideMenu.style.display = "block";
+    sideMenu.style.left = "0";
 });
 
 // close sidebar
 closeBtn.addEventListener("click", () => {
-    sideMenu.style.display = "none";
+    sideMenu.style.left = "-100%";
 });
 
 // change theme
