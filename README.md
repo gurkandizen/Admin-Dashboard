@@ -9,8 +9,10 @@ Proje; **saf HTML, CSS ve JavaScript** kullanılarak oluşturulmuş olup herhang
 
 Düzen yapısında **CSS Grid** ve **Flexbox**, tema ve etkileşimlerde ise **vanilla JavaScript** tercih edilmiştir.
 
-![Project Screenshot](https://via.placeholder.com/1200x600?text=Proje+Ekran+Görüntüsü+Buraya)  
-> 📌 *Not: Kendi proje ekran görüntünü buraya eklemeyi unutma.*
+![Project Screenshot]  
+> 📌 <img width="1915" height="909" alt="Ekran görüntüsü 2026-01-14 020638" src="https://github.com/user-attachments/assets/20e12d89-6ca0-4887-8e01-ca3ffad9a995" />
+<img width="378" height="1926" alt="Admin Dashboard" src="https://github.com/user-attachments/assets/d0525bb8-f4e1-4b15-b05a-7db0cd6eda43" />
+
 
 ---
 
